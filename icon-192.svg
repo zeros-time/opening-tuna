@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="28" fill="#f3efe6"/>
+  <path d="M23 42h146M23 150h146" fill="none" stroke="#8f3e31" stroke-width="4"/>
+  <text x="96" y="93" text-anchor="middle" fill="#25241f" font-family="Georgia,serif" font-size="48" font-weight="700">OT</text>
+  <path d="M58 117h76" stroke="#b18a4b" stroke-width="3"/>
+  <text x="96" y="137" text-anchor="middle" fill="#6c695f" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">OPENING TUNA</text>
+</svg>
